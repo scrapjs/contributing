@@ -1,7 +1,7 @@
 * If you don't want to maintain a project anymore
 * If project is half-workable
 * If you want to free npm name
-* Transfer repo to _scrapjs_, transfer npm rights as _npm owner add <package> scrapjs_
+* Transfer repo to _scrapjs_, transfer npm rights as _npm owner add scrapjs \<package\>_
 
 ## Ideas
 
