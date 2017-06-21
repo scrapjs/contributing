@@ -16,9 +16,11 @@ The opposite of greenkeeper.
 * Transfer npm rights
 * Give out package names for free
 * What supressor or analog should we use instead
+* Time to leave, like staging auctions or backticks or whatever.
 
 ## Requirements
 
 * The project is not gist or gibberish, it is workable to some extent
 * Do not put stuff here if it has more than 300 downloads/month in npm, accumulated by all dependent packages
 * TODO What is the politics regarding experiments?
+* TODO What is the politics regarding websites?
