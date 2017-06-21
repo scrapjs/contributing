@@ -24,3 +24,8 @@ The opposite of greenkeeper.
 * Do not put stuff here if it has more than 300 downloads/month in npm, accumulated by all dependent packages
 * TODO What is the politics regarding experiments?
 * TODO What is the politics regarding websites?
+
+
+## See also
+
+* [package-analogs](https://github.com/dfcreative/package-analogs)
