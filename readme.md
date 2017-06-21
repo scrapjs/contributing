@@ -11,6 +11,7 @@ The opposite of greenkeeper.
 * Claim package name by posting an issue
 * Possibly indicate what supressor or analog should we use instead or the reason of abandonment
 * Time to live, (for countdown/auction in possible future)
+* Join org to help recycling stuff
 
 ## Requirements
 
