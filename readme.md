@@ -1,3 +1,7 @@
+# ScrapJS
+
+> The opposite of greenkeeper
+
 * If you don't want to maintain a project anymore
 * If project is half-workable
 * If you want to free npm name
@@ -16,4 +20,4 @@
 ## Requirements
 
 * The project is not gist or gibberish, it is workable to some extent
-* Do not put stuff here if it has more than 200 downloads/month in npm
+* Do not put stuff here if it has more than 300 downloads/month in npm, accumulated by all dependent packages
