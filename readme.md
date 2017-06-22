@@ -18,7 +18,7 @@ The opposite of greenkeeper.
 
 * The project is not gist or gibberish, it is workable to some extent
 * Do not put stuff here if it has more than 300 downloads/month in npm, accumulated by all dependent packages
-* Idea of the project should be clear
+* Idea of the project should be clear from sort of readme
 * Should not be anonymous
 * TODO What is the politics regarding experiments?
 * TODO What is the politics regarding websites?
