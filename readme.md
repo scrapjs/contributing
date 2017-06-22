@@ -22,6 +22,7 @@ The opposite of greenkeeper.
 * Should not be anonymous
 * TODO What is the politics regarding experiments?
 * TODO What is the politics regarding websites?
+* FIXME License should be transfered to public domain
 
 
 ## See also
