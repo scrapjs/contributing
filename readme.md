@@ -16,13 +16,13 @@ The opposite of greenkeeper.
 
 ## Requirements
 
-* The project is not gist or gibberish, it is workable to some extent
-* Do not put stuff here if it has more than 300 downloads/month in npm, accumulated by all dependent packages
-* Idea of the project should be clear from sort of readme
-* Should not be anonymous
-* TODO What is the politics regarding experiments?
-* TODO What is the politics regarding websites?
-* FIXME License should be transfered to public domain
+* The project is not gist or gibberish, it is workable to some extent.
+* Do not put stuff here if it has more than 300 downloads/month in npm, accumulated by all dependent packages.
+* Idea of the project should be clear from sort of readme.
+* Should not be anonymous.
+* TODO What is the policy for experiments?
+* TODO What is the policy for websites?
+* FIXME License should be transfered to public domain.
 
 
 ## See also
