@@ -2,17 +2,17 @@
 
 The opposite of greenkeeper.
 
-* If you don't want to maintain a project anymore
-* If project is half-workable
-* If you want to free npm name
-* Transfer repo to _scrapjs_
-* Transfer npm rights as `npm owner add dy <package>` or `npm owner add jamen` (will be transfered to scrapjs soon)
-* Claim any project you want (hope you are not a bot or whatever) by posting an issue
-* Instead of writing "Project is abandoned", just put it here
-* Claim package name by posting an issue
-* Possibly indicate what supressor or analog should we use instead or the reason of abandonment
-* Time to live (optional, for countdown/auction in possible future)
-* Join org to help recycling stuff
+* If you don't want to maintain a project anymore.
+* If project is half-workable.
+* If you want to free npm name.
+* Transfer repo to _scrapjs_.
+* Transfer npm rights as `npm owner add dy <package>` or `npm owner add jamen` (will be transfered to scrapjs soon).
+* Claim any project you want (hope you are not a bot or whatever) by posting an issue.
+* Instead of writing "Project is abandoned", just put it here.
+* Claim package name by posting an issue.
+* Possibly indicate what replacement or analog should we use instead or the reason of abandonment.
+* Time to live (optional, for countdown/auction in possible future).
+* Join the org to help recycling stuff.
 
 ## Requirements
 
