@@ -6,7 +6,7 @@ The opposite of greenkeeper.
 * If project is half-workable
 * If you want to free npm name
 * Transfer repo to _scrapjs_
-* Transfer npm rights as `npm owner add dfcreative <package>` (will be transfered to scrapjs soon)
+* Transfer npm rights as `npm owner add dy <package>` or `npm owner add jamen` (will be transfered to scrapjs soon)
 * Claim any project you want (hope you are not a bot or whatever) by posting an issue
 * Instead of writing "Project is abandoned", just put it here
 * Claim package name by posting an issue
