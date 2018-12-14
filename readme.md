@@ -27,5 +27,7 @@ The opposite of greenkeeper.
 
 ## See also
 
-* [package-analogs](https://github.com/dfcreative/package-analogs)
 * [npm-inactive](https://github.com/jamen/npm-inactive)
+* [archive-pkgs](https://github.com/archive-pkgs)
+* [package-analogs](https://github.com/dy/package-analogs)
+* [nopersonsmodules](https://www.npmjs.com/~nopersonsmodules)
