@@ -3,7 +3,7 @@
 The opposite of greenkeeper.
 
 * If you don't want to maintain a project anymore.
-* If project is half-workable.
+* If project is half-workable and ain't going to be developed anymore.
 * If you want to free npm name.
 * Transfer repo to _scrapjs_.
 * Transfer npm rights as `npm owner add dy <package>` or `npm owner add jamen` (will be transfered to scrapjs soon).
@@ -27,6 +27,7 @@ The opposite of greenkeeper.
 
 ## See also
 
+* [ssb-junkyard](https://github.com/ssb-junkyard/junkyard)
 * [npm-inactive](https://github.com/jamen/npm-inactive)
 * [archive-pkgs](https://github.com/archive-pkgs)
 * [package-analogs](https://github.com/dy/package-analogs)
